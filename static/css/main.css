@@ -1,0 +1,50 @@
+/*ETIQUETAS*/
+body{
+    background-color: #fff;
+    min-height: 100vh;
+}
+
+/*CLASES*/
+.navbar-custom{
+    background-color: #343a40 !important;
+    color: #fff;
+}
+.navbar-custom a{
+    background-color: #343a40 !important;
+    color: #fff;
+}
+/*.navbar-custom a:hover{
+    background-color: #343a40 !important;
+    color: #fff;
+}
+*/
+
+.footer-custom{
+    background-color: #343a40 !important;
+    padding: 15px;
+
+    color: #fff;
+    text-align: center;
+}
+.footer-custom a{
+    margin: 0;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    margin: 0;
+}
+/*MODIFICACIONES*/
+.container{
+    background-color: #fff;
+}
+.dropdown-menu{
+    background-color: #343a40;
+    border: none;
+}
+.dropdown-item:hover{
+    background-color: #fff !important;
+    color: #343a40;
+}
+.nav-link{
+    color: #fff !important;
+}
